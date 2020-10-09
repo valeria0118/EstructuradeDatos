@@ -12,7 +12,9 @@ public class Controller {
     Label lblTitulo;
 
     public void evento1(ActionEvent event){
-        int dias = Integer.parseInt(txtEdad.getText())*365;
-        lblTitulo.setText("has vivido"+dias+"dias");
+        Conversion td=new Conversion();
+        int numero = Integer.parseInt(txtEdad.getText());
+        String res =td.binario(numero);
+        lblTitulo.setText(res);
     }
 }
