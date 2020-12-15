@@ -51,6 +51,13 @@
   <component name="FavoritesManager">
     <favorites_list name="JavaFxApplication" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
@@ -60,7 +67,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectId" id="1iDAxcdDpjxiiKVudPbHhBzaILY" />
+  <component name="ProjectId" id="1k7ahpJKTDT1J5XRaIo4ARt0nsO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
@@ -80,10 +87,7 @@
     <property name="OverrideImplement.combined" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="C:/proyectos progra java/Hospital" />
     <property name="recentsLimit" value="5" />
   </component>
   <component name="RunManager">
@@ -114,7 +118,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="sample.Main" />
-      <module name="ConceptosBasicos" />
+      <module name="Libreria_evaluacion" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -188,37 +192,21 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="389" y="108" key="FileChooserDialogImpl" timestamp="1602252455701">
+    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser" timestamp="1605150314021">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="389" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602252455701" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1601436799801">
+    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1605150314021" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1605080189035">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601436799801" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1601436799801">
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605080189035" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1606444311731">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601436799801" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1601436799801">
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1606444311731" />
+    <state x="65" y="0" key="new project wizard" timestamp="1606444345581">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601436799801" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1601436799801">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601436799801" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1602252460150">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602252460150" />
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1603864223660">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1603864223660" />
-    <state x="65" y="0" key="new project wizard" timestamp="1603864336251">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1603864336251" />
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1606444345581" />
   </component>
 </project>
