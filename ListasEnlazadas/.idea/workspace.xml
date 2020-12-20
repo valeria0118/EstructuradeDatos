@@ -27,7 +27,25 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrador\Documents\estructura de datos\EstructuradeDatos\ListasEnlazadas\src\EstructurasLineales" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstructurasNoLineales.Main" />
+      <module name="ListasEnlazadas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EstructurasNoLineales.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="ListasEnlazadas" />
@@ -37,6 +55,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -55,9 +74,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser" timestamp="1607999995187">
+    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser" timestamp="1608477107171">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1607999995187" />
+    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1608477107171" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1608480006029">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608480006029" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1608480006029">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608480006029" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1608480006028">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608480006028" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1608480006029">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608480006029" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1608476370906">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1608476370906" />
   </component>
 </project>
