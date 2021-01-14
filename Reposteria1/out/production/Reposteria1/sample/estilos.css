@@ -1,0 +1,23 @@
+.fondo{
+-fx-background-image: url("./img/fondoReposteria.jpg");
+-fx-background-size: 100% 100%
+
+}
+.buttonAceptar{
+-fx-background-color: #A5A2A2;
+-fx-background-radius: 30px;
+
+}
+.textAceptar{
+
+-fx-background-radius: 30px;
+
+}
+.cabecera{
+-fx-background-color: #EEA294;
+}
+.button2{
+-fx-background-color: #A5A2A2;
+-fx-background-radius: 30px;
+
+}
